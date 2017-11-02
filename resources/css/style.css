@@ -1,0 +1,38 @@
+* {
+  font-family: Veranda, sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h4.download {
+  font-size: 16px;
+  color: aquamarine;
+  text-decoration: underline;
+}
+
+h4.remember {
+  font-size: 21px;
+  color: gray;
+}
+
+h3.copyright {
+  font-size: 21px;
+  color: gray;
+  text-align: right;
+}
